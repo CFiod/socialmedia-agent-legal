@@ -1,0 +1,7 @@
+{
+  "name": "socialmedia-agent-legal",
+  "version": "1.0.0",
+  "scripts": {
+    "validate": "node validate.js"
+  }
+}
